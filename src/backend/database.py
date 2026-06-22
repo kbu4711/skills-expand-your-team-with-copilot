@@ -166,13 +166,13 @@ initial_activities = {
     },
     "Manga Maniacs": {
         "description": "Dive into the vibrant world of Japanese Manga! From the epic battles of shonen heroes to the heartfelt journeys of slice-of-life characters, we read, discuss, and celebrate the art and storytelling that makes Manga a global phenomenon. Whether you're a seasoned otaku or just curious, come join the adventure!",
-        "schedule": "Tuesdays, 7:00 PM",
+        "schedule": "Tuesdays, 5:00 PM",
         "schedule_details": {
             "days": ["Tuesday"],
-            "start_time": "19:00",
-            "end_time": "20:00"
+            "start_time": "17:00",
+            "end_time": "18:00"
         },
-        "max_participants": 15,
+        "max_participants": 25,
         "participants": []
     }
 }
